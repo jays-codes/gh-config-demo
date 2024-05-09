@@ -2,7 +2,7 @@ build:
   version: "1.11"
   
 cards:
-  message: "Cards related PROD APIs - testing actuator, rabbitmq, on gh prop file changes"
+  message: "Cards related PROD APIs - testing rabbitmq, on gh prop file changes"
   contactDetails:
     name: "User Support - Prod Owner"
     email: "prod@jayslabs.com"
