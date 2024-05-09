@@ -2,7 +2,7 @@ build:
   version: "1.99"
   
 loans:
-  message: "Loans related Prod APIs"
+  message: "Loans related Prod APIs - testing actuator, rabbitmq, on gh prop file changes"
   contactDetails:
     name: "User Support - Prod Owner"
     email: "prodowner@jayslabs.com"
