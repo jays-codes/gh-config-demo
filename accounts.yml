@@ -2,7 +2,7 @@ build:
   version: "3.19"
 
 accounts:
-  message: "Accounts related local APIs"
+  message: "Accounts related local APIs - deployed via compose"
   contactDetails:
     name: "User Support - Developer"
     email: "dev@jayslabs.com"
