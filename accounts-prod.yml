@@ -1,5 +1,5 @@
 build:
-  version: "1.12"
+  version: "1.13"
   
 accounts:
   message: "Accounts related Prod APIs - testing docker compose version, on gh prop file changes"
