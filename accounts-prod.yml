@@ -2,7 +2,7 @@ build:
   version: "1.12"
   
 accounts:
-  message: "Accounts related Prod APIs - testing Webhook, rabbitmq, on gh prop file changes"
+  message: "Accounts related Prod APIs - testing docker compose version, on gh prop file changes"
   contactDetails:
     name: "User Support - Prod Owner"
     email: "{cipher}12d84b68f8ebdb2a085df10cead21e3728cb670ea8848e602648f84eba97754304bc108755d8ca0b4fde570686024386"
