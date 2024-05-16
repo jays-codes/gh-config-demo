@@ -1,5 +1,5 @@
 build:
-  version: "1.99"
+  version: "1.98"
   
 loans:
   message: "Loans related Prod APIs - testing WEBHOOK, rabbitmq, on gh prop file changes"
